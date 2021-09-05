@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anand-Jangid
-- 👀 I’m interested in pytho
+- 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me jangidme88@gmail.com
